@@ -6,6 +6,8 @@
 - Express
 - MongoDB
 - Mongoose
+- Socket io
+- Socket io client
 - Vue js
 - Nuxt js
 - Nuxt Auth
